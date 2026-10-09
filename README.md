@@ -11,7 +11,9 @@ pip install qiskit qiskit-aer matplotlib jupyterlab
 
 ## 📂 Repository Structure
 
-* 📁 **`notebooks/`** — Jupyter Notebooks containing learning material.
+* 📁 **`notebooks/`** — Jupyter Notebooks containing learning material
+* In this repository you can find previous and current official **[Qiskit Fall Fest learning material](https://github.com/Q-Bees/Qiskit-Fall-Fest)**
+* And in this repository is a **[Qiskit fundamentals course](https://github.com/JoeyRogers-svg/Qiskit-fundamentals/blob/main)** organised by Sebastian E. Grodzietzki, IBM Quantum Ambassador Leader DACH with his student Joey Rogers
 * 📄 **`README.md`** — Project overview and setup instructions (this file).
 
 
