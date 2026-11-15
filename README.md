@@ -54,7 +54,8 @@ If you want to contribute your solutions or custom notebooks to this repository:
 2. Stage and commit your changes (`git commit -m "Add quantum simulation notebook"`).
 3. Push to your branch (`git push origin feature-your-name`).
 4. Open a **Pull Request** on GitHub for review.
-5. This will be needed for our hackathon.
+
+Pull requests to this starter repo are welcome for learning-material contributions. Hackathon teams submit one form entry with their own public project repo and demo or notebook links.
 
 
 ## 📝 License
